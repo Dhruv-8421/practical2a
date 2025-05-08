@@ -1,0 +1,4 @@
+name =dhruv 
+class =te it
+subject = wad
+desc=file is text
